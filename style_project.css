@@ -111,6 +111,10 @@ li{
     list-style: none;
 }
 
+.wr1{
+    display: flex;
+}
+
 .wr li{
     list-style: none;
     font-family: inherit;
@@ -125,4 +129,11 @@ li{
 img{
     width: 200px;
     height: 200px;
+}
+
+.qrcoder{
+    
+    width: 200px;
+    height: 200px;
+    padding: 0 400px;
 }
